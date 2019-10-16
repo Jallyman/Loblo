@@ -9,6 +9,22 @@
 
 }
 
+html {
+     position: relative;
+     min-height: 100%;
+}
+
+body {
+     /* Margin bottom by footer height */
+     margin-bottom: 60px;
+}
+
+.page-footer {
+     width: 100%;
+     /* Set the fixed height of the footer here */
+     height: 340px;
+}
+
 .page-footer li {
     padding-left:5px;
     padding-right:5px;
