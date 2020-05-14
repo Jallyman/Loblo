@@ -41,7 +41,7 @@ body {
 }
 
 .cig {
-    padding-left:80px
+    min-width: 250px;
 }
  
 .embed-responsive {
